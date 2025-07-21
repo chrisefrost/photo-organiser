@@ -1,4 +1,4 @@
-````markdown
+
 # Photo & Video Organizer
 
 A robust graphical user interface (GUI) application designed to help you organize your digital photo and video collection effortlessly. This tool automatically sorts your media files into a structured folder system based on their date, identifies potential duplicates, handles various file formats, and isolates problematic files for your review.
